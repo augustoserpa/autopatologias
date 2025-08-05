@@ -1,0 +1,261 @@
+Cardiomiopatia dilatada
+Cardiomiopatia hipertrófica
+Endocardite infecciosa
+Arritmia ventricular
+Doença do nó sinoatrial
+Acne Felina
+Abcessos Prostáticos
+Abiotrofia Cerebelar
+Acidente com Abelhas, Vespas e Marimbondos
+Acidente Botrópico
+Acidente Crotálico
+Acidente Elapídico
+Acidente Laquético
+Acidente por Serpentes
+Acidente Vascular Encefálico
+Acromegalia/Hipersomatotropismo
+Agalaxia
+Anemia Hipoproliferativas
+Aplasia/Hipoplasia Medula Óssea
+Araneísmo
+Atrofia de Retina Hereditária
+Atrofia de Retina por Enrofloxacino
+Atrofia de Retina por Ivermectina
+Atrofia de Retina Súbita
+Avulsão das Raízes do Plexo Braquial
+Botulismo
+Anasarca Congênita
+Anemia Hemolítica Imunomediada
+Anemia Hemolítica por Defeitos Adquiridos das Hemácias
+Anemia Hemorrágica Aguda
+Anemia Hemorrágica Crônica
+Anencefalia, Lisencefalia e Hidrocefalia
+Anomalias do Ureter
+Atonia do Detrusor
+Atresia Anal/Fístula Retovaginal
+Brucelose Canina
+Carcinoma Espinocelular Cutâneo
+Carcinoma Inflamatório de Mama
+Carcinoma Urotelial
+Catarata
+Catarata Diabética
+Ceratite Superficial Crônica
+Ceratoconjuntivite Seca
+Cetoacidose Diabética
+Cirrose/Fibrose Hepática
+Coagulação Intravascular Disseminada
+Colângio-Hepatite Felina
+Comunicação Oronasal
+Conjuntivite Folicular
+Conjuntivite Neonatal
+Contratura do Músculo Grácil e Semitendinoso
+Contratura do Músculo Infraespinhoso ou Supraespinhoso
+Contratura do Quadríceps
+Crise Epiléptica
+Cistite Bacteriana
+Cistite Idiopática dos Felinos
+Cisto Medular ou Cortical
+Cisto Paraprostático
+Cistos Ovarianos Foliculares
+Cistos Prostáticos
+Cistos Renais
+Criptococose Neurológica
+Criptorquidismo
+Degeneração Corneal
+Dermatomiose Familiar Canina e Dermatomiosite Não Familiar Canina
+Deslizamento da Epífise Capital Femoral
+Desordens do Movimento
+Diabetes Insipidus
+Diabetes Mellitus Canino
+Diabetes Mellitus Felino
+Discospondilite
+Displasia Coxofemoral em Cães
+Displasia Coxofemoral em Gatos
+Distiquíase
+Distrofias Corneais
+Distrofias Musculares
+Divertículo Aracnoide Espinal
+Divertículo Aracnoide Intracraniano
+Doenças de Acúmulo Lisossômal
+Doença Articular Degenerativa ou Osteoartrite
+Doença do Desenvolvimento do Cotovelo
+Doença do Disco Intervertebral do Tipo II - Protrusão de Disco
+Doença do Ligamento Cruzado Cranial
+Doença Periodontal
+Doença do Processo Coronoide Medial
+Disfunção Cognitiva ou Síndrome da Disfunção Cognitiva
+Distocia ou Parto Anormal
+Divertículos Vesicouracais
+Doença do Disco Intervertebral em Gatos
+Doença Renal Crônica
+Doenças Inflamatórias do Sistema Nervoso Central
+Epilepsia
+Ectrópio
+Encefalopatia Hepática
+Entrópio
+Episclerite/Esclerite
+Eritrocitose Absoluta
+Eritrocitose Relativa
+Esclerose Lenticular
+Escorpionismo
+Eversão da Cartilagem da Terceira Pálpebra
+Estado Epiléptico ou Status Epilepticus
+Estenose Lombossacra Degenerativa
+Fenda Palatina/Lábio Leporino
+Filhotes Caninos Que Mamaram Colostro
+Filhotes Caninos Que Não Mamaram Colostro
+Fraturas Abertas
+Gengivoestomatite Crônica Felina
+Glaucoma Primário
+Glaucoma Secundário
+Glomerulopatias Adquiridas
+Glomerulopatias Hereditárias e Congênitas
+Granuloma Eosinofílico Felino
+Hemofilias
+Hemosiderose Canina
+Hepatite Aguda
+Hepatite Crônica
+Hipoxemia Neonatal
+Hidrocefalia
+Laceração Palpebral
+Lágrima de Má Qualidade
+Lesão do Músculo Iliopsoas
+Lesão Meniscal
+Lesão por Cisalhamento do Tarso
+Lipidose Hepática Felina
+Lupus Eritematoso Sistêmico
+Luxação Coxofemoral
+Luxação de Cotovelo
+Luxação Congênita de Cotovelo
+Luxação Traumática de Cotovelo
+Luxação de Ombro
+Luxação Lateral
+Luxação Medial
+Luxação de Patela
+Hidronefrose
+Não União Óssea
+Não União do Processo Ancôneo
+Necrose Asséptica da Cabeça do Fêmur ou Necrose Avascular da Cabeça do Fêmur ou Doença de Legg-Calvé-Perthes
+Hiperplasia e Prolapso Vaginal
+Pancreatite Aguda
+Pancreatite Crônica
+Panosteite
+Parafimose
+Paralisia do Nervo Facial
+Piometra - Complexo Hiperplasia Endometrial Cística
+Piometra de Coto
+Platinossomiase
+Polimiosite
+Polimiosite Inflamatória
+Polimiosite por Protozoários
+Polirradiculoneurite Idiopática
+Polirradiculoneurite por Protozoário
+Prolapso Uterino
+Prostatite Aguda
+Prostatite Crônica
+Pseudogestação
+Hiperplasia Prostática
+Septicemia Neonatal
+Sialocele
+Síndrome da Flexão do Carpo
+Síndrome de Frouxidão do Carpo em Cães Filhotes
+Síndrome do Cão Nadador
+Síndrome do Filhote Nadador
+Síndrome do Leite Tóxico
+Síndrome de Horner
+Síndrome do Ovário Remanescente
+Síndrome do Tremor Idiopático da Cabeça em Cães
+Síndrome Hemorrágica do Neonato
+Síndrome Vestibular
+Síndrome Vestibular Central
+Síndrome Vestibular Periférica
+Síndrome de Wobbler ou Espondilomielopatia Cervical
+Shunt Portossistêmico
+Subinvolução dos Sítios Placentários
+Hipomielinização
+União Retardada
+Vaginite
+Vaginite Juvenil ou do Filhote
+Vírus Minuto Canino
+Incontinência Urinária
+Incontinência Urinária por Alterações Neurológicas
+Infarto Fibrocartilaginoso ou Embolismo Fibrocartilaginoso ou Mielopatia Embólica Fibrocartilaginosa
+Infecção do Trato Urinário
+Infecção do Trato Urinário Inferior
+Infecção do Trato Urinário Superior
+Infecção Fúngica
+Instabilidade do Detrusor ou Hiperatividade Detrusora
+Instabilidade/Subluxação Atlantoaxial
+Insulinoma
+Insuficiência Renal Aguda
+Insuficiência Renal Crônica
+Lesão do Nervo Trigêmeo
+Lesão Renal Aguda
+Leucemia Linfoblástica Aguda
+Leucemia Linfocítica Crônica
+Leucoencefalite Necrotizante
+Linfomas em Cães
+Linfomas em Gatos
+Malformação Semelhante à de Chiari e Siringomielia
+Manifestação Ocular do Complexo Respiratório dos Felinos
+Mastite
+Mastocitomas
+Melanoma
+Meningoencefalite Eosinofílica Idiopática
+Meningoencefalite Granulomatosa
+Meningoencefalite Necrotizante
+Meningoencefalites de Origem Desconhecida em Gatos
+Meningoencefalites Inflamatórias Infecciosas
+Meningoencefalites Inflamatórias Não Infecciosas
+Meningite Bacteriana
+Meningite Vasculite Arterite Responsiva a Esteroides
+Mesotelioma
+Miastenia Grave Adquirida
+Mielomalácia Hemorrágica Progressiva
+Mieloma Múltiplo
+Nefrolitíase
+Nefropatia Hereditária
+Nefropatias Hereditárias
+Neoplasias Intracranianas
+Neoplasias Mamárias em Cadelas
+Neoplasias Mamárias em Gatas
+Neoplasias Prostáticas
+Neoplasias Testiculares
+Neoplasias Vertebromedulares
+Neosporose
+Neurite Óptica
+Obstrução do Ducto Nasolacrimal
+Olho Azul/Ceratopatia Bolhosa
+Osteossarcoma
+Paciente Obstruído
+Panus Oftálmico
+Peritonite Infecciosa Felina - Manifestações Neurológicas
+Pielonefrite
+Proptose Traumática do Bulbo do Olho
+Protrusão da Glândula da Terceira Pálpebra
+Rins Policísticos
+Sarcoma Histiocítico
+Sarcomas de Aplicação em Felinos
+Sarcomas de Tecidos Moles
+Sequestro Corneal
+Síndrome de Fanconi
+Síndrome do Tremor Responsivo aos Corticosteroides
+Síndrome Nefrótica
+Subluxação/Luxação da Lente
+Toxoplasmose
+Triquíase
+Triquíase da Carúncula
+Tumor Venéreo Transmissível
+Úlcera de Córnea com Destruição do Limbo
+Úlcera de Córnea Indolente
+Úlcera de Córnea Profunda
+Úlcera de Córnea Superficial
+Ureter Ectópico
+Ureterocele
+Ureterolitíase
+Uretolitíase
+Uroabdômen
+Urocistolitíase
+Urolitíase
+Uveíte Anterior
+Uveíte Posterior e Panuveíte
