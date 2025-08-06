@@ -43,8 +43,8 @@ CAMINHO_CADASTRADAS = "../data/cadastradas.txt"  # Arquivo que registra patologi
 TAMANHO_LOTE = 40
 
 # Credenciais de acesso ao sistema (ATENÇÃO: manter seguras!)
-EMAIL_USUARIO = "augustoserpa@unipampa.edu.br"
-SENHA_USUARIO = "38659103"
+EMAIL_USUARIO = "USUÁRIO AQUI"
+SENHA_USUARIO = "SENHA AQUI"
 
 # URLs do sistema Simples.vet
 URL_LOGIN = "https://app.simples.vet/login/login.php"
